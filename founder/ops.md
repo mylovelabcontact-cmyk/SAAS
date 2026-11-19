@@ -104,7 +104,7 @@ Deux cofondateurs non payés, aucun salarié, aucune paie. Laurène : 15 h (quat
 
 ## 5. La pile minimale
 
-Vercel Pro 18,50 € + Supabase Pro 23 € + Brevo 0 puis 7 € + push maison 0 € + Clarity, GA4, Canva 0 € + domaines 1,60 € + Shine 0 (ou 9 €) + IA 90 € (estimation ; 20 € si Claude Pro suffit) = **133 à 160 €/mois**, cohérent avec les 152 € de `numbers.json`. Stripe en variable ; affiliation option A à 0 €. Comptabilité : tableur et déclaration URSSAF mensuelle ; comptable (≈ 50 €/mois) seulement en société.
+Vercel Pro 18,50 € + Supabase Pro 23 € + Brevo 0 puis 7 € + push maison 0 € + Clarity, GA4, Canva 0 € + domaines 1,60 € + Shine 0 (ou 9 €) + IA 90 € (estimation ; 20 € si Claude Pro suffit) = **133 à 160 €/mois**, cohérent avec les 149 € de `numbers.json`. Stripe en variable ; affiliation option A à 0 €. Comptabilité : tableur et déclaration URSSAF mensuelle ; comptable (≈ 50 €/mois) seulement en société.
 
 ## 6. Checklist légale et administrative (France)
 

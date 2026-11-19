@@ -100,7 +100,7 @@ Le making-of (Laurène écrit une session et montre la source), une carte de jeu
 
 ## 5. Budget et chiffres
 
-**Le maximum par couple payant** : 4,30 € de contribution × 7 mois de rétention moyenne (churn 15 %) = **30,10 € ≈ 30 €** ; le panel achète 1,0 fois par mois, rien à multiplier. Visé : 10 €. À 3 % de paiement : au plus 0,90 € par test terminé, 0,30 € visé. Un couple venu par une créatrice vaut ≈ 22 € (3,17 € × 7) : jamais commission et pub sur le même couple.
+**Le maximum par couple payant** : 4,22 € de contribution × 7 mois de rétention moyenne (churn 15 %) = **29,54 € ≈ 30 €** ; le panel achète 1,0 fois par mois, rien à multiplier. Visé : 10 €. À 3 % de paiement : au plus 0,90 € par test terminé, 0,30 € visé. Un couple venu par une créatrice vaut ≈ 22 € (3,17 € × 7) : jamais commission et pub sur le même couple.
 
 **150 € (Noël, 9–23 décembre)** : 100 € de retargeting Meta sur les testeuses sans invitation ou sans paiement (accroches 1, 2, 8), 50 € de boost du post « Offrir le Duo ». Rôle : un premier coût réel, pas du volume. Garde-fou : après 50 € dépensés, si le coût par test terminé dépasse 0,90 €, on coupe.
 

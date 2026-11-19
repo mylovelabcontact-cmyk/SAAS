@@ -12,7 +12,7 @@ Tout ce qui n'est pas une facture des fondateurs est marqué **estimation** ou *
 |---|---|---|
 | Frais Stripe | 1,5 % + 0,25 € par paiement carte UE standard | [stripe.com/fr/pricing](https://stripe.com/fr/pricing), prix public |
 | Affiliation | 30 % de l'abonnement pendant 12 mois pour les clients apportés par un praticien ou une créatrice (décision des fondateurs). **Estimation** : 50 % des clients viendront par affiliation → 15 % du CA en moyenne. Le what-if « 100 % affilié » (30 %) est dans `cfo.md`. | fiche contexte fondateurs |
-| Cotisations sociales micro-entreprise | ≈ 24,6 % du CA encaissé (taux BNC prestations de services, [urssaf.fr, auto-entrepreneur](https://www.autoentrepreneur.urssaf.fr/portail/accueil/sinformer-sur-le-statut/lessentiel-du-statut.html)). **À vérifier** : le taux dépend de la nature de l'activité retenue (BIC vente de services 21,2 % ou BNC 24,6 % en 2026) et de l'ACRE la première année (taux réduit de moitié). | prix public, estimation |
+| Cotisations sociales micro-entreprise | ≈ 25,6 % du CA encaissé (taux BNC prestations de services, [urssaf.fr, auto-entrepreneur](https://www.autoentrepreneur.urssaf.fr/portail/accueil/sinformer-sur-le-statut/lessentiel-du-statut.html)). **À vérifier** : le taux dépend de la nature de l'activité retenue (BIC 21,2 % ou BNC 25,6 % en 2026) et de l'ACRE la première année (exonération de 25 % depuis le 1er juillet 2026, sur demande). | prix public, estimation |
 | E-mails | ≈ 35 e-mails/mois par couple (rappel quotidien + transactionnels) ; Brevo ou Resend : négligeable sous 20 000 e-mails/mois | [brevo.com/fr/pricing](https://www.brevo.com/fr/pricing/), prix public |
 
 ## Coûts fixes mensuels
@@ -32,7 +32,7 @@ Non inclus, à ajouter si les fondateurs le décident : assurance RC pro (≈ 10
 | ligne | montant | source |
 |---|---|---|
 | Publicité | 150 € (Noël) + 600 € (janvier) + 1 000 € (Saint-Valentin) = 1 750 € | fiche contexte fondateurs |
-| Dépôt de marque INPI | 190 € pour 1 classe (classe 41 ou 44 ; 40 € par classe supplémentaire) | [inpi.fr, tarifs](https://www.inpi.fr/tarifs), prix public |
+| Dépôt de marque INPI | 230 € pour 2 classes (41 + 44 ; 190 € la première, 40 € par classe supplémentaire) | [inpi.fr, tarifs](https://www.inpi.fr/tarifs), prix public |
 | Création de micro-entreprise | 0 € (guichet unique) ; CGV/mentions légales : 60 € **estimation** si un modèle payant est acheté | [formalites.entreprises.gouv.fr](https://formalites.entreprises.gouv.fr), prix public |
 
 Alternative SAS à deux associés : ≈ 200–300 € de création (annonce légale + greffe) + comptable ≈ 50 €/mois ; aucune cotisation sociale sans salaire mais IS de 15 % puis 25 % sur le bénéfice. À comparer avec un comptable si le CA dépasse ~2 000 €/mois.

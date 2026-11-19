@@ -10,12 +10,12 @@
 
 | | |
 |---|---:|
-| Contribution par couple-mois | 4,30 € (54 %) |
-| Frais fixes | 152 €/mois |
+| Contribution par couple-mois | 4,22 € (53 %) |
+| Frais fixes | 149 €/mois |
 | Seuil de rentabilité | ≈ 36 couples payants |
-| Marge au plan (300 couples) | 48 % |
-| Revenus an 1 / résultat an 1 | 11 101 € / 4 224 € |
-| Cash nécessaire | ≈ 2 150 € |
+| Marge au plan (300 couples) | 47 % |
+| Revenus an 1 / résultat an 1 | 11 101 € / 4 141 € |
+| Cash nécessaire | ≈ 2 190 € |
 | Mise remboursée | mois 9 |
 | Verdict calculé | **Pas encore** (17 % d'achat simulé, barre 25 %) |
 
@@ -26,7 +26,7 @@
 - Déjà construit : le test, 420 sessions sur 7 dimensions, le Mode Duo (gratuit en bêta), 6 jeux, 17 articles de blog, 18 pages recherche. Site en ligne depuis l'été 2026 ; moins de 20 tests passés à mi-septembre.
 - Test réel à venir : pré-vente de l'offre fondateurs à 50 couples bêta, ligne de succès 10 couples payants avant le 7 décembre.
 
-**À quoi sert l'argent.** 1 750 € de publicité en trois vagues (Noël 150 €, janvier 600 €, Saint-Valentin 1 000 €), 190 € de dépôt de marque, 152 €/mois d'outils. Pas de salaire. Le maximum à payer pour un couple payant est 30 € (sa contribution sur 7 mois) ; cible 10 €.
+**À quoi sert l'argent.** 1 750 € de publicité en trois vagues (Noël 150 €, janvier 600 €, Saint-Valentin 1 000 €), 230 € de dépôt de marque, 149 €/mois d'outils. Pas de salaire. Le maximum à payer pour un couple payant est 30 € (sa contribution sur 7 mois) ; cible 10 €.
 
 **La demande.** Pas de levée de fonds. Les fondateurs cherchent : 20 praticiens partenaires et 10 créatrices en affiliation (30 % sur 12 mois, sans fixe), 50 couples bêta dont 10 payants, et un comptable pour valider la structure et les cotisations avant le 7 décembre.
 

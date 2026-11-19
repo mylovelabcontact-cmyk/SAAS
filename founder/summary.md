@@ -5,8 +5,8 @@
 ## Le verdict : Pas encore
 
 Calculé par l'outil (`compile.py`), pas écrit à la main :
-- ✓ Chaque couple-mois laisse **4,30 €** après ses propres coûts (contribution 54 %).
-- ✓ L'année 1 fait **4 224 €** de résultat d'exploitation sur 11 101 € de revenus, avec 152 €/mois de frais fixes et personne de payé ; seuil de rentabilité ≈ 36 couples payants ; mise de 2 000 € remboursée au mois 9.
+- ✓ Chaque couple-mois laisse **4,22 €** après ses propres coûts (contribution 53 %).
+- ✓ L'année 1 fait **4 141 €** de résultat d'exploitation sur 11 101 € de revenus, avec 149 €/mois de frais fixes et personne de payé ; seuil de rentabilité ≈ 36 couples payants ; mise de 2 040 € remboursée au mois 9.
 - ✗ **17 % des acheteuses simulées achètent** (5 sur 30), sous la barre de 25 %. L'offre d'origine faisait 0 sur 20.
 
 Ce qui doit changer, et quel skill le change : le taux d'achat, et il ne dépend plus du prix ni de l'essai (réglés par `/founder-offer` et `/founder-pricing`) mais du **partenaire** : 22 refus sur 25 disent « il ne fera jamais sa part ». C'est `/founder-launch` (50 couples réels, taux d'invitation acceptée) et un `/founder-offer` v3 (mode solo en attendant l'autre, lettre au partenaire, premiers jeux légers) qui tranchent. Les projections reposent sur une montée à 220 couples payants en un an, soit 700 à 1 300 tests terminés par mois ; le site en faisait moins de 20 à mi-septembre. Tant que de vrais couples n'ont pas prouvé mieux, le verdict reste Pas encore.
@@ -23,7 +23,7 @@ Deuxième risque : la concurrence copie vite (Paired est déjà en français, à
 
 ## Ce qu'il faut pour démarrer
 
-- **Cash : ≈ 2 150 €** (1 750 € de pub déjà budgétés + 190 € de marque INPI + deux mois de frais fixes). Pas de salaire : avec 500 €/mois chacun, l'année 1 perdrait 7 800 €.
+- **Cash : ≈ 2 190 €** (1 750 € de pub déjà budgétés + 230 € de marque INPI + deux mois de frais fixes). Pas de salaire : avec 500 €/mois chacun, l'année 1 perdrait 7 900 €.
 - **Avant tout encaissement** : une structure juridique (micro-entreprise ou SAS à deux, voir `ops.md`), le SIRET sur Stripe, les CGV, la migration de domaine.
 - **Le premier test réel** (`launch.md`) : pré-vente de l'offre fondateurs à 49 €/an auprès des 50 couples bêta, ligne de succès **10 couples payants avant le 7 décembre**.
 

@@ -64,7 +64,7 @@ Test gratuit → Essentiel 9,90 €/mois (une personne) ou Premium Duo 19,90 €
 2. *La question du soir dans la notification* : deux minutes, sans ouvrir le site (objection 9, 10).
 3. *14 jours offerts, qui ne démarrent que quand vous êtes deux* (objection 4, 11).
 
-**La garantie** : satisfait ou remboursé 30 jours, résiliation en un clic, rappel avant la fin de l'essai. Coût modélisé : à 5 % de remboursements, 0,50 € par nouveau couple, soit 1 % du revenu annuel d'un couple ; à 15 %, 1,50 €. Supportable (contribution 4,30 € par couple-mois, `cfo.md`).
+**La garantie** : satisfait ou remboursé 30 jours, résiliation en un clic, rappel avant la fin de l'essai. Coût modélisé : à 5 % de remboursements, 0,50 € par nouveau couple, soit 1 % du revenu annuel d'un couple ; à 15 %, 1,50 €. Supportable (contribution 4,22 € par couple-mois, `cfo.md`).
 
 **La rareté** : offre fondateurs, 100 couples, 49 €/an, jusqu'au 31 décembre 2026, prix garanti tant que l'abonnement est actif. Après : 59 €/an. Pas de compte à rebours artificiel, pas de « -30 % Saint-Valentin » (la Saint-Valentin se vend avec la carte cadeau au prix normal).
 

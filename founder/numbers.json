@@ -12,8 +12,8 @@
       "cost": 1.19
     },
     {
-      "label": "Cotisations sociales micro-entreprise (≈ 24,6 % du CA encaissé, à vérifier)",
-      "cost": 1.94
+      "label": "Cotisations sociales micro-entreprise BNC 2026 (25,6 % du CA encaissé, à vérifier ; 21,2 % si BIC)",
+      "cost": 2.02
     },
     {
       "label": "E-mails de rappel et transactionnels (≈ 70/mois pour deux comptes)",
@@ -30,12 +30,12 @@
       "cost": 23.0
     },
     {
-      "label": "Outil d'e-mailing (Brevo Starter ou équivalent)",
-      "cost": 9.0
+      "label": "Outil d'e-mailing (Brevo, gratuit sous 300 e-mails/jour puis Starter ≈ 7 € HT)",
+      "cost": 7.0
     },
     {
-      "label": "Nom de domaine mylovelab.fr + redirection myrelation.fr",
-      "cost": 2.0
+      "label": "Noms de domaine mylovelab.fr + myrelation.fr (≈ 19 €/an)",
+      "cost": 1.6
     },
     {
       "label": "Abonnement IA pour le développement et le contenu (Claude, estimation)",
@@ -64,8 +64,8 @@
       "cost": 1000
     },
     {
-      "label": "Dépôt de marque INPI, 1 classe (estimation)",
-      "cost": 190
+      "label": "Dépôt de marque INPI, 2 classes (41 + 44) (prix public)",
+      "cost": 230
     },
     {
       "label": "Création micro-entreprise (gratuit) + mentions légales/CGV relues (estimation)",

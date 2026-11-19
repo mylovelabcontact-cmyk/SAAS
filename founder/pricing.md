@@ -37,7 +37,7 @@ Lecture : les leaders incluent le partenaire dans un seul abonnement ; la média
 | 9,90 € (mensuel seul) | 5,52 € (56 %) | 51 % | 1 /jour ≈ 28 couples | 5 939 € | mois 8 |
 | 12,90 € | 7,30 € (57 %) | 53 % | 1 /jour ≈ 21 couples | 8 440 € | mois 7 |
 
-Les coûts fixes sont de 152 €/mois et les fondateurs ne se paient pas : tout prix au-dessus de 5 € couvre les frais dès 30 à 60 couples. Le prix ne décide pas de la survie ; le volume, oui. Ce que le prix décide, c'est le coût d'acquisition supportable (voir `marketing.md`) et la crédibilité.
+Les coûts fixes sont de 149 €/mois et les fondateurs ne se paient pas : tout prix au-dessus de 5 € couvre les frais dès 30 à 60 couples. Le prix ne décide pas de la survie ; le volume, oui. Ce que le prix décide, c'est le coût d'acquisition supportable (voir `marketing.md`) et la crédibilité.
 
 ## 4. Décision
 
