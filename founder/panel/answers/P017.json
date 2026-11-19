@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "habit",
+  "reason": "On a déjà nos jeux de cartes et nos questions du soir, donc une routine ludique à deux avec un rappel le soir, c'est exactement notre truc, et à 49 € l'année pour nous deux ça reste un petit prix. Je ferais le test gratuit, l'essai de 14 jours, et si on tient deux semaines on prend l'offre fondateurs avant le 31 décembre.",
+  "objection": "C'est un site qu'on épingle sur l'écran d'accueil, pas une vraie appli : si la notification saute ou qu'on ne l'ouvre pas, on va oublier au bout de dix jours, et je paierais 9,90 € par mois pour des questions que je pourrais trouver dans un jeu de cartes à 15 € une fois pour toutes.",
+  "would_change_my_mind": "Si mon copain ne fait pas sa part du test ou lâche pendant l'essai, je ne paie pas : c'est à deux ou rien.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 15
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Le test gratuit de 15 minutes, je le ferais peut-être un soir où le bébé dort, par curiosité. Mais 9,90 € par mois pour un site, c'est le prix de Netflix, et avec 18 000 € par an, Netflix, Spotify et mon appli bien-être déjà prélevés, je n'empile pas un abonnement de plus pour une session de 8 minutes par jour que je n'aurai pas l'énergie de faire.",
+  "objection": "Je suis crevée, j'ai déjà la charge mentale d'un premier enfant, et là on me demande une 'action à tester à deux dans la journée' tous les jours : ça devient une corvée de plus, et en plus le Duo à 19,90 € suppose que mon conjoint joue le jeu, ce qui n'est pas gagné.",
+  "would_change_my_mind": "Un paiement unique autour de 20-30 € pour le programme complet, ou une formule Duo à 9,90 € au total, sans prélèvement mensuel qui s'ajoute aux autres.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 7,
+  "price_too_expensive": 10
+}

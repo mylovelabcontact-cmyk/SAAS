@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Je ferais le test gratuit un soir après une dispute, c'est sûr, mais payer 9,90 € par mois pour qu'un site nous pose une question chaque soir, non. Avec le bébé et 22 000 € par an, je n'ai ni l'énergie ni l'envie de confier mon couple à une appli, et de toute façon il ne fera jamais sa partie du test.",
+  "objection": "Le Duo ne démarre que si mon partenaire fait le test de son côté, et il n'a même pas regardé le reel de psy que je lui ai envoyé. Je vais me retrouver seule avec mon score, encore une chose que c'est moi qui porte.",
+  "would_change_my_mind": "Qu'il fasse le test de lui-même et qu'il me dise qu'il a envie de continuer les 14 jours, sans que j'aie à insister.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 10,
+  "price_too_expensive": 15
+}

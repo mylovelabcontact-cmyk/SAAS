@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Je ferais le test gratuit, j'enverrais le lien, et c'est là que ça coince : il a déjà dit non à une thérapie de couple parce que c'était trop cher et trop tôt, il ne va pas faire un test de 15 minutes sur un site qu'il ne connaît pas. Et même si l'essai démarre, un truc sans vraie appli, je vais zapper la notification trois soirs de suite et oublier.",
+  "objection": "Il faut qu'on soit deux pour que ça serve à quelque chose, et je ne suis pas sûre qu'il fasse le test ni qu'on tienne la question du soir au-delà d'une semaine ; je ne vais pas payer pour un abonnement que je serais la seule à utiliser.",
+  "would_change_my_mind": "Qu'il fasse le test de son côté sans que je le relance, et qu'on arrive au bout des 14 jours en ayant fait au moins la moitié des soirs ; là je prendrais l'offre fondateurs à 49 € sans hésiter.",
+  "price_too_cheap": 15,
+  "price_cheap": 49,
+  "price_expensive": 79,
+  "price_too_expensive": 120
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "other",
+  "reason": "Je ferais le test gratuit toute seule, ça c'est sûr, et je lirais mon portrait avec curiosité. Mais payer 9,90 € par mois pour des actions à tester à deux alors que mon copain lèvera les yeux au ciel dès que je lui en parle, non : je finirais par faire ça seule dans mon coin, comme avec mon livre sur l'attachement.",
+  "objection": "Tout le programme repose sur le fait que mon copain joue le jeu, et je sais qu'il ne le fera pas. Et puis Gottman et Sue Johnson, je les connais déjà ; je veux voir les sources précises, pas juste des noms cités en vitrine.",
+  "would_change_my_mind": "Que mon copain fasse le test gratuit de son côté et me dise lui-même qu'il veut continuer à deux.",
+  "price_too_cheap": 3,
+  "price_cheap": 6,
+  "price_expensive": 15,
+  "price_too_expensive": 25
+}

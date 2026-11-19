@@ -1,0 +1,13 @@
+{
+  "id": "P030",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "other",
+  "reason": "Moi je ferais le test gratuit ce soir, mais le Duo ne démarre que si lui fait le test aussi, et je le connais : il va regarder le lien, dire que c'est gnangnan, et le laisser traîner. Je ne vais pas payer 9,90 € par mois pour une appli que je serais la seule à ouvrir.",
+  "objection": "Tout repose sur mon partenaire qui clique sur un lien et répond à des questions de psy, et c'est exactement ce qu'il refuse de faire. Le reel de psy que je lui ai envoyé, il ne l'a même pas commenté.",
+  "would_change_my_mind": "S'il faisait le test de son côté sans que j'aie à insister, et qu'on ait vraiment nos deux portraits côte à côte, je prendrais l'offre fondateurs à 49 € l'année.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 8,
+  "price_too_expensive": 12
+}

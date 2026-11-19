@@ -1,0 +1,13 @@
+{
+  "id": "P021",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "need",
+  "reason": "Je ferais le test gratuit par curiosité, peut-être même les 14 jours d'essai, mais je résilierais avant la fin : une question le soir sur le téléphone ne va pas changer qui fait la vaisselle ni qui pense aux courses, et c'est ça nos disputes.",
+  "objection": "Je n'ai pas envie de confier ma vie de couple à un site, et je vois mal mon copain faire son test et répondre tous les soirs à une notification ; au bout d'une semaine ce serait moi qui porterais ça aussi, une charge mentale de plus.",
+  "would_change_my_mind": "Si l'essai montrait des sessions concrètes sur le partage des tâches et de la charge mentale, avec un vrai plan à deux à la sortie, et que mon copain s'y mette de lui-même, je prendrais l'offre fondateurs à 49 € plutôt que le mensuel.",
+  "price_too_cheap": 10,
+  "price_cheap": 29,
+  "price_expensive": 59,
+  "price_too_expensive": 90
+}

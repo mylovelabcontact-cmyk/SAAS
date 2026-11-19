@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "Je tombe dessus à 23h après une engueulade, je fais le test gratuit toute seule, j'ai mon score et mon style d'attachement, et là il faudrait que j'envoie un lien à mon copain qui boude dans le salon. Le lendemain la dispute est passée, le lien n'est jamais parti, et une question tous les soirs pendant un an ce n'est pas ce que je cherchais ce soir-là.",
+  "objection": "C'est un test comme dans les magazines avec Gottman écrit en dessous pour faire sérieux ; et surtout ça ne marche que si lui joue le jeu, or lui envoyer « fais ce test » juste après qu'on s'est disputés, c'est repartir pour une dispute.",
+  "would_change_my_mind": "Que mon copain tombe dessus de son côté et me l'envoie lui, ou qu'une copine me dise que chez eux ça a vraiment changé quelque chose en deux semaines.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 15,
+  "price_too_expensive": 25
+}

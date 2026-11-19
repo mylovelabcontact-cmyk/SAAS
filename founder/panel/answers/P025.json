@@ -1,0 +1,13 @@
+{
+  "id": "P025",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "other",
+  "reason": "Le test gratuit avec Gottman, Sue Johnson et l'ECR-R cités, je le fais ce soir, ça c'est sûr, et je lirai mon portrait d'attachement avec plaisir. Mais le Duo ne démarre que si mon copain fait le test de son côté, et lui qui trouvait déjà la thérapie de couple trop chère et trop tôt, il va laisser mon lien dormir dans WhatsApp.",
+  "objection": "Tout repose sur la participation de mon partenaire : s'il ne clique pas sur le lien, je n'ai rien à acheter, et je ne vais pas payer 9,90 € par mois pour répondre seule à une question du soir qu'il ignore.",
+  "would_change_my_mind": "Qu'il fasse le test de lui-même après avoir vu mon lien, et qu'on arrive au bout des 14 jours d'essai sans que ce soit moi qui tire à chaque fois ; là je prendrais l'offre fondateurs à 49 € sans hésiter.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 15,
+  "price_too_expensive": 25
+}

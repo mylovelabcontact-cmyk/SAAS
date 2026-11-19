@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Le test gratuit de 15 minutes, je le fais direct, je partage mon portrait et je harcèle mon copain pour qu'il fasse le sien, ça c'est sûr. Mais payer 9,90 € par mois derrière pour une question chaque soir, non : je fais tous les tests qui passent sur Insta et je ne m'abonne jamais après, le plaisir c'est le résultat, pas la routine.",
+  "objection": "Même si ça s'installe sur l'écran d'accueil, c'est un site, pas une vraie appli, et je sais que je vais zapper la notif au bout de quatre jours ; et une question par soir à deux, on le fait déjà en mode jeu de cartes quand on a des invités, gratuitement.",
+  "would_change_my_mind": "Si après les 14 jours d'essai mon copain me demandait lui-même de continuer parce qu'il y a pris goût, je paierais les 49 € sans discuter.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 8,
+  "price_too_expensive": 12
+}

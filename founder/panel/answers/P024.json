@@ -1,0 +1,13 @@
+{
+  "id": "P024",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Je ferais le test gratuit avec plaisir, j'enverrais le lien à mon copain et je partagerais sûrement nos deux profils, mais je sais comment je fonctionne : la notification du soir, je vais la balayer au bout de quatre jours comme j'ai fait avec Duolingo. Je ne paie pas pour une chose que je sais que je vais abandonner.",
+  "objection": "Le test, c'est un moment ; le Duo, c'est tous les soirs, et c'est justement ça qui ne tient jamais chez moi. Et je ne suis même pas sûre que mon copain fasse sa partie du test, donc l'essai ne démarrerait peut-être jamais.",
+  "would_change_my_mind": "Si mon copain accrochait vraiment et que c'était lui qui me relançait le soir pendant les 14 jours d'essai, là je mettrais les 49 € pour l'année.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 10,
+  "price_too_expensive": 15
+}

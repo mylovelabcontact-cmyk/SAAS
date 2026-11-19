@@ -1,0 +1,478 @@
+{
+ "business": "MyLoveLab (mylovelab.fr), test de couple gratuit puis programme quotidien par abonnement, en France",
+ "seed": 7,
+ "dealt": 100,
+ "answered": 30,
+ "skipped": [
+  [
+   "P031",
+   "missing"
+  ],
+  [
+   "P032",
+   "missing"
+  ],
+  [
+   "P033",
+   "missing"
+  ],
+  [
+   "P034",
+   "missing"
+  ],
+  [
+   "P035",
+   "missing"
+  ],
+  [
+   "P036",
+   "missing"
+  ],
+  [
+   "P037",
+   "missing"
+  ],
+  [
+   "P038",
+   "missing"
+  ],
+  [
+   "P039",
+   "missing"
+  ],
+  [
+   "P040",
+   "missing"
+  ],
+  [
+   "P041",
+   "missing"
+  ],
+  [
+   "P042",
+   "missing"
+  ],
+  [
+   "P043",
+   "missing"
+  ],
+  [
+   "P044",
+   "missing"
+  ],
+  [
+   "P045",
+   "missing"
+  ],
+  [
+   "P046",
+   "missing"
+  ],
+  [
+   "P047",
+   "missing"
+  ],
+  [
+   "P048",
+   "missing"
+  ],
+  [
+   "P049",
+   "missing"
+  ],
+  [
+   "P050",
+   "missing"
+  ],
+  [
+   "P051",
+   "missing"
+  ],
+  [
+   "P052",
+   "missing"
+  ],
+  [
+   "P053",
+   "missing"
+  ],
+  [
+   "P054",
+   "missing"
+  ],
+  [
+   "P055",
+   "missing"
+  ],
+  [
+   "P056",
+   "missing"
+  ],
+  [
+   "P057",
+   "missing"
+  ],
+  [
+   "P058",
+   "missing"
+  ],
+  [
+   "P059",
+   "missing"
+  ],
+  [
+   "P060",
+   "missing"
+  ],
+  [
+   "P061",
+   "missing"
+  ],
+  [
+   "P062",
+   "missing"
+  ],
+  [
+   "P063",
+   "missing"
+  ],
+  [
+   "P064",
+   "missing"
+  ],
+  [
+   "P065",
+   "missing"
+  ],
+  [
+   "P066",
+   "missing"
+  ],
+  [
+   "P067",
+   "missing"
+  ],
+  [
+   "P068",
+   "missing"
+  ],
+  [
+   "P069",
+   "missing"
+  ],
+  [
+   "P070",
+   "missing"
+  ],
+  [
+   "P071",
+   "missing"
+  ],
+  [
+   "P072",
+   "missing"
+  ],
+  [
+   "P073",
+   "missing"
+  ],
+  [
+   "P074",
+   "missing"
+  ],
+  [
+   "P075",
+   "missing"
+  ],
+  [
+   "P076",
+   "missing"
+  ],
+  [
+   "P077",
+   "missing"
+  ],
+  [
+   "P078",
+   "missing"
+  ],
+  [
+   "P079",
+   "missing"
+  ],
+  [
+   "P080",
+   "missing"
+  ],
+  [
+   "P081",
+   "missing"
+  ],
+  [
+   "P082",
+   "missing"
+  ],
+  [
+   "P083",
+   "missing"
+  ],
+  [
+   "P084",
+   "missing"
+  ],
+  [
+   "P085",
+   "missing"
+  ],
+  [
+   "P086",
+   "missing"
+  ],
+  [
+   "P087",
+   "missing"
+  ],
+  [
+   "P088",
+   "missing"
+  ],
+  [
+   "P089",
+   "missing"
+  ],
+  [
+   "P090",
+   "missing"
+  ],
+  [
+   "P091",
+   "missing"
+  ],
+  [
+   "P092",
+   "missing"
+  ],
+  [
+   "P093",
+   "missing"
+  ],
+  [
+   "P094",
+   "missing"
+  ],
+  [
+   "P095",
+   "missing"
+  ],
+  [
+   "P096",
+   "missing"
+  ],
+  [
+   "P097",
+   "missing"
+  ],
+  [
+   "P098",
+   "missing"
+  ],
+  [
+   "P099",
+   "missing"
+  ],
+  [
+   "P100",
+   "missing"
+  ]
+ ],
+ "buys": 5,
+ "passes": 25,
+ "buy_rate": 0.16666666666666666,
+ "by_segment": [
+  [
+   "Jeune maman ou enceinte (premier enfant, charge mentale, fatigue)",
+   7,
+   0.42857142857142855
+  ],
+  [
+   "Active installée (CDI, projet d'achat ou de bébé, couple de 4 à 7 ans)",
+   6,
+   0.16666666666666666
+  ],
+  [
+   "Jeune active en début de carrière (emploi salarié, loyer à deux, pas d'enfant)",
+   14,
+   0.07142857142857142
+  ],
+  [
+   "Étudiante ou en reconversion (petit budget, beaucoup de temps en ligne)",
+   3,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Fan de rituels à deux",
+   4,
+   1.0
+  ],
+  [
+   "Lectrice psycho",
+   6,
+   0.16666666666666666
+  ],
+  [
+   "Curieuse des tests",
+   8,
+   0.0
+  ],
+  [
+   "Moment de tension",
+   4,
+   0.0
+  ],
+  [
+   "Chasseuse de bons plans",
+   4,
+   0.0
+  ],
+  [
+   "Partenaire réticent",
+   2,
+   0.0
+  ],
+  [
+   "Déjà abonnée ailleurs",
+   2,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$23,000 to $29,000",
+   9,
+   0.2222222222222222
+  ],
+  [
+   "$29,000 and up",
+   11,
+   0.18181818181818182
+  ],
+  [
+   "under $23,000",
+   10,
+   0.1
+  ]
+ ],
+ "why_not": [
+  [
+   "habit",
+   16,
+   [
+    "Le test gratuit, je le ferais ce soir, surtout avec Gottman et l'ECR-R cités, ça me parle. Mais le Duo ne démarre que si mon copain fait le test et répond à une question chaque soir, et je le connais : il va dire oui, oublier, et au bout de trois rappels ce sera moi qui le relance, ce qui est exactement ce que je ne veux pas.",
+    "Le test gratuit, je le fais direct, j'envoie le lien à mon copain et je partage sûrement le résultat « Vos deux regards » en story. Mais payer 9,90 € par mois pour un site de questions du soir, non : j'ai jamais payé derrière un test et je vois pas pourquoi je commencerais là."
+   ],
+   [
+    "P001",
+    "P002"
+   ]
+  ],
+  [
+   "other",
+   5,
+   [
+    "Le test gratuit, je le ferais sûrement un soir à 23h après une dispute, pour voir. Mais le Duo ne sert à rien si mon copain ne fait pas sa part, et lui, il n'ouvre même pas les reels que je lui envoie, alors un test de 15 minutes puis une question tous les soirs, je n'y crois pas.",
+    "Le test gratuit, je le fais ce soir sur le canapé, et les sources (Gottman, ECR-R) me rassurent vraiment. Mais le Duo ne démarre que si mon copain fait le test de son côté, et lui, il est sur sa manette : le lien va rester dans WhatsApp sans réponse, donc je n'arrive jamais à l'étape où on paie."
+   ],
+   [
+    "P003",
+    "P008"
+   ]
+  ],
+  [
+   "trust",
+   2,
+   [
+    "Je ferais le test gratuit un soir après une dispute, c'est sûr, mais payer 9,90 € par mois pour qu'un site nous pose une question chaque soir, non. Avec le bébé et 22 000 € par an, je n'ai ni l'énergie ni l'envie de confier mon couple à une appli, et de toute façon il ne fera jamais sa partie du test.",
+    "Je ferais le test gratuit un soir après une dispute, parce que c'est gratuit et que ça répond tout de suite, mais passer à 9,90 € par mois pour une marque que je ne connais pas, qui n'est même pas encore lancée, et qui demande que mon copain fasse le test de son côté, non. Le soir où ça va mal il ne cliquera pas sur mon lien, et une fois calmés on oublie."
+   ],
+   [
+    "P004",
+    "P029"
+   ]
+  ],
+  [
+   "timing",
+   1,
+   [
+    "Je tombe dessus à 23h après une engueulade, je fais le test gratuit toute seule, j'ai mon score et mon style d'attachement, et là il faudrait que j'envoie un lien à mon copain qui boude dans le salon. Le lendemain la dispute est passée, le lien n'est jamais parti, et une question tous les soirs pendant un an ce n'est pas ce que je cherchais ce soir-là."
+   ],
+   [
+    "P018"
+   ]
+  ],
+  [
+   "need",
+   1,
+   [
+    "Je ferais le test gratuit par curiosité, peut-être même les 14 jours d'essai, mais je résilierais avant la fin : une question le soir sur le téléphone ne va pas changer qui fait la vaisselle ni qui pense aux courses, et c'est ça nos disputes."
+   ],
+   [
+    "P021"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "habit",
+   4,
+   [
+    "C'est exactement le genre de petit rituel du soir que j'adore, ça ressemble à un jeu de cartes couple et pas à une thérapie, et 9,90 € pour deux c'est le prix d'un paquet de couches. Je fais le test gratuit, je lui envoie le lien, et si on tient les 14 jours je prends le mois, pas l'année.",
+    "C'est exactement le genre de petit rituel du soir qu'on aime, et 9,90 € pour nous deux c'est moins qu'un jeu de cartes. Je fais le test gratuit, on essaie les 14 jours, et si ça nous fait rire deux minutes avant de dormir avec le bébé, je prends le mois."
+   ],
+   [
+    "P005",
+    "P006"
+   ]
+  ],
+  [
+   "need",
+   1,
+   [
+    "Depuis le bébé on ne se parle plus que de couches et de biberons, et un truc qui cite Gottman et l'ECR-R au lieu de me vendre du développement perso en rose, ça me parle. Je ferais le test gratuit d'abord, et à 49 € l'année pour nous deux, moins qu'une séance de psy, je prendrais l'offre fondateurs si l'essai tient ses promesses."
+   ],
+   [
+    "P019"
+   ]
+  ]
+ ],
+ "flip": [
+  "Qu'il fasse le test de son côté sans que j'insiste, et qu'on tienne les 14 jours d'essai à deux sans que je doive le pousser. Là je prendrais l'offre à 49 €/an sans hésiter.",
+  "Si après les 14 jours on avait vraiment pris le pli à deux et qu'il y avait un tarif genre 3-4 € par mois ou 29 € l'année, je pourrais me laisser tenter.",
+  "Que ce soit lui qui ait fait le test de son côté et qui m'envoie le lien, ou que je voie sur « Vos deux regards » quelque chose qui le fasse réagir vraiment, pas juste des pourcentages.",
+  "Qu'il fasse le test de lui-même et qu'il me dise qu'il a envie de continuer les 14 jours, sans que j'aie à insister.",
+  "Qu'il fasse le test de son côté sans que je le relance, et qu'on arrive au bout des 14 jours en ayant fait au moins la moitié des soirs ; là je prendrais l'offre fondateurs à 49 € sans hésiter.",
+  "Que mon copain fasse le test de lui-même après avoir vu mes résultats, ou que je puisse continuer seule avec mon portrait d'attachement et des sessions solo pendant qu'il se décide.",
+  "Que ce soit lui qui fasse le test le premier et qui me propose le Duo, pas moi qui doive encore le relancer.",
+  "Si pendant l'essai on faisait vraiment les sessions à deux sans que je doive le relancer, et qu'il y avait un code promo ou le tarif fondateurs encore valable au moment où je me décide.",
+  "Si mon copain accroche vraiment pendant les 14 jours et que c'est lui qui me relance le soir pour faire la question, là je prendrais l'offre à 49 € l'année pour nous deux.",
+  "Que ce soit lui qui propose, ou au moins qu'il fasse le test de son côté sans que j'aie à insister ; s'il le fait et qu'il accroche sur les deux semaines gratuites, 49 € pour l'année à deux ça passe.",
+  "Un achat unique autour de 20 € pour une boîte de sessions ludiques à faire à deux (comme un jeu de cartes, mais sur le téléphone), sans abonnement ni notification quotidienne.",
+  "Un achat unique, genre 15 à 20 € une fois pour tout débloquer, comme un jeu de cartes qu'on garde, plutôt qu'un abonnement.",
+  "Qu'il fasse le test de lui-même et qu'au bout des 14 jours d'essai ce soit lui qui propose de continuer.",
+  "Si après les 14 jours d'essai mon copain me demandait lui-même de continuer parce qu'il y a pris goût, je paierais les 49 € sans discuter.",
+  "Que mon copain tombe dessus de son côté et me l'envoie lui, ou qu'une copine me dise que chez eux ça a vraiment changé quelque chose en deux semaines.",
+  "Qu'il fasse le test de lui-même avec le lien, qu'on regarde « Vos deux regards » ensemble et que ce soit lui qui propose de continuer.",
+  "Si l'essai montrait des sessions concrètes sur le partage des tâches et de la charge mentale, avec un vrai plan à deux à la sortie, et que mon copain s'y mette de lui-même, je prendrais l'offre fondateurs à 49 € plutôt que le mensuel.",
+  "Si pendant les 14 jours d'essai c'est lui qui ouvre la question du soir en premier, sans que je lui rappelle, je prends les 49 € à l'année sans hésiter.",
+  "Si mon copain accrochait vraiment et que c'était lui qui me relançait le soir pendant les 14 jours d'essai, là je mettrais les 49 € pour l'année.",
+  "Qu'il fasse le test de lui-même après avoir vu mon lien, et qu'on arrive au bout des 14 jours d'essai sans que ce soit moi qui tire à chaque fois ; là je prendrais l'offre fondateurs à 49 € sans hésiter.",
+  "Que mon copain fasse le test de lui-même et me dise qu'il a envie de continuer : si c'est lui qui est demandeur, les 49 € de l'offre fondateurs passent sans discuter.",
+  "Que mon copain fasse le test de son côté sans que je le relance, et qu'il revienne vers moi pour en parler pendant les 14 jours d'essai : là je prends l'offre à 49 € l'année sans hésiter.",
+  "Que mon copain accroche vraiment aux questions du soir pendant les 14 jours et me demande lui-même de continuer ; là, 49 € pour l'année ça passe.",
+  "Qu'une amie ou un média que je connais en parle, ou que mon copain fasse le test de lui-même et me dise que ses résultats l'ont touché.",
+  "S'il faisait le test de son côté sans que j'aie à insister, et qu'on ait vraiment nos deux portraits côte à côte, je prendrais l'offre fondateurs à 49 € l'année."
+ ],
+ "purchases_first_month_per_buyer": 1.0,
+ "price_answers": 30
+}

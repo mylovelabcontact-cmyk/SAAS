@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "other",
+  "reason": "Je ferais le test gratuit un soir sur le canapé, sûrement, parce que Gottman et l'attachement ça me parle et j'ai envie de voir mon portrait. Mais payer 9,90 € par mois pour des sessions avec une « action à tester à deux » alors que mon copain ne lâchera pas sa manette pour ça, non : je finirais par le faire toute seule et je culpabiliserais de payer pour rien.",
+  "objection": "Mon copain ne fera jamais ça avec moi, et un programme de couple fait à moitié c'est juste un rappel quotidien que je suis la seule à m'en occuper. Et avec mon budget, 9,90 € tous les mois c'est un livre de psycho que je n'achète pas.",
+  "would_change_my_mind": "Que mon copain fasse le test gratuit de son côté sans que j'aie à le supplier, et qu'on se retrouve avec un résultat à comparer : là je prendrais peut-être le Duo un mois pour voir.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 8,
+  "price_too_expensive": 12
+}

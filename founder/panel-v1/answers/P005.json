@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Le test gratuit, je le ferais volontiers un soir, et 9,90 € c'est le prix d'un jeu de cartes, donc pas le problème. Mais une session de 8 minutes par jour sur un site où il faut penser à aller, avec le bébé et la fatigue, je sais déjà que je lâche au bout de trois jours, et payer un abonnement pour ça, non.",
+  "objection": "Pas d'appli, pas de notification : qui va me rappeler d'y aller le soir ? Et pour le Duo, il faudrait qu'il crée un compte et joue le jeu, alors qu'il a trouvé la thérapie trop chère et trop tôt. Je me vois payer 19,90 € toute seule pour un truc à deux.",
+  "would_change_my_mind": "Un rappel quotidien par SMS ou WhatsApp avec la question du jour dedans, qu'on puisse faire le rituel à deux en deux minutes sans avoir à ouvrir le site, ou un vrai jeu de cartes physique livré avec l'abonnement.",
+  "price_too_cheap": 3,
+  "price_cheap": 6,
+  "price_expensive": 15,
+  "price_too_expensive": 20
+}

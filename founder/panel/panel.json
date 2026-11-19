@@ -1,0 +1,107 @@
+{
+ "n": 100,
+ "seed": 7,
+ "customer": {
+  "business": "MyLoveLab (mylovelab.fr), test de couple gratuit puis programme quotidien par abonnement, en France",
+  "target": "Femmes de 25 à 35 ans vivant en France, en couple depuis 2 à 7 ans et vivant avec leur partenaire (de l'emménagement au premier enfant); revenus affichés en euros nets par an",
+  "where": "France, en ligne (site web sur téléphone ou ordinateur)",
+  "age": [
+   25,
+   35
+  ],
+  "segments": [
+   {
+    "name": "Jeune active en début de carrière (emploi salarié, loyer à deux, pas d'enfant)",
+    "share": 0.4,
+    "income": [
+     20000,
+     30000
+    ]
+   },
+   {
+    "name": "Active installée (CDI, projet d'achat ou de bébé, couple de 4 à 7 ans)",
+    "share": 0.3,
+    "income": [
+     28000,
+     42000
+    ]
+   },
+   {
+    "name": "Jeune maman ou enceinte (premier enfant, charge mentale, fatigue)",
+    "share": 0.2,
+    "income": [
+     18000,
+     35000
+    ]
+   },
+   {
+    "name": "Étudiante ou en reconversion (petit budget, beaucoup de temps en ligne)",
+    "share": 0.1,
+    "income": [
+     8000,
+     16000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Curieuse des tests",
+    "share": 0.22,
+    "how": "Fait les tests de personnalité et de couple qu'elle croise sur Instagram ou TikTok, partage le résultat, s'abonne rarement derrière."
+   },
+   {
+    "name": "Lectrice psycho",
+    "share": 0.15,
+    "how": "Suit des psys sur Instagram, a lu un livre sur l'attachement, cherche du sérieux et des sources."
+   },
+   {
+    "name": "Moment de tension",
+    "share": 0.18,
+    "how": "Cherche sur Google le soir après une dispute (« on se dispute tout le temps », « mon couple va mal »), veut une réponse tout de suite."
+   },
+   {
+    "name": "Chasseuse de bons plans",
+    "share": 0.12,
+    "how": "Compare les prix, veut l'annuel ou un code promo, résilie à la fin de l'essai si pas convaincue."
+   },
+   {
+    "name": "Déjà abonnée ailleurs",
+    "share": 0.1,
+    "how": "Paie déjà Netflix, Spotify et une appli bien-être; refuse d'empiler un abonnement de plus sans raison forte."
+   },
+   {
+    "name": "Partenaire réticent",
+    "share": 0.13,
+    "how": "Serait partante mais son conjoint trouve ça « gnangnan » ou n'aime pas les applis; elle ne veut pas faire ça seule."
+   },
+   {
+    "name": "Fan de rituels à deux",
+    "share": 0.1,
+    "how": "Aime les jeux de cartes couple, les questions du soir, les défis; prête à payer un petit prix pour une routine ludique."
+   }
+  ],
+  "objections": [
+   "On n'a pas de problème, pourquoi payer pour ça ?",
+   "9,90 € par mois pour un site, c'est le prix de Netflix",
+   "Mon copain ne fera jamais ça avec moi",
+   "C'est un test comme dans les magazines, ça ne vaut rien",
+   "Je n'ai pas envie de confier ma vie de couple à un site",
+   "Encore un abonnement que je vais oublier de résilier",
+   "Une appli ne remplace pas un vrai psy",
+   "Je ne tiendrai pas 8 minutes par jour, j'ai déjà abandonné Duolingo",
+   "Pas d'appli sur le téléphone, je vais oublier d'y aller",
+   "C'est quoi cette marque, je n'en ai jamais entendu parler"
+  ],
+  "habits": [
+   "tu scrolles Instagram et TikTok une heure le soir sur le canapé pendant que ton partenaire joue ou regarde une série",
+   "vous vous disputez surtout sur le ménage et la charge mentale",
+   "vous avez emménagé ensemble il y a deux ans et la routine s'est installée",
+   "tu as déjà envoyé un reel de psy à ton partenaire en espérant qu'il comprenne le message",
+   "vous parlez de faire un bébé ou d'acheter un appartement dans les deux ans",
+   "tu as un bébé de quelques mois et vous ne vous parlez plus que logistique",
+   "tu as suggéré une thérapie de couple une fois, il a dit que c'était trop cher et trop tôt",
+   "vous faites un jeu de cartes-questions quand vous avez des invités, et ça finit toujours en bonne soirée"
+  ]
+ },
+ "pitch": "MyLoveLab (mylovelab.fr), un site français pour les couples. S'installe sur l'écran d'accueil du téléphone comme une appli, avec une notification le soir : « votre question du jour » (ou le même rappel par e-mail).\nD'abord un test de couple gratuit de 15 minutes, fondé sur la recherche (chaque session cite ses sources : Gottman, Sue Johnson, échelle ECR-R). Tu reçois ton score sur 7 dimensions, ton style d'attachement et ton portrait. Tu envoies un lien à ton ou ta partenaire : il ou elle fait le test de son côté, sans compte, et vous découvrez « Vos deux regards », vos scores côte à côte.\nEnsuite, le Duo : 14 jours d'essai gratuit, qui ne démarrent que quand vous avez tous les deux fait le test. Chaque soir, une question ou une session ludique de 5 à 8 minutes, à faire à deux en deux minutes depuis la notification, ou plus longuement quand vous avez le temps. Si vous ratez des jours, rien ne se perd.\nPrix : le Duo coûte 9,90 €/mois pour vous deux (un seul paiement, deux comptes), ou 59 €/an pour deux. Offre fondateurs jusqu'au 31 décembre : 49 €/an pour les 100 premiers couples. Satisfait ou remboursé 30 jours, résiliable en un clic.\nLancement le 7 décembre 2026. Ce n'est pas une thérapie : si la situation le demande, le site vous oriente vers un praticien partenaire."
+}

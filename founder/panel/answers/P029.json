@@ -1,0 +1,13 @@
+{
+  "id": "P029",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Je ferais le test gratuit un soir après une dispute, parce que c'est gratuit et que ça répond tout de suite, mais passer à 9,90 € par mois pour une marque que je ne connais pas, qui n'est même pas encore lancée, et qui demande que mon copain fasse le test de son côté, non. Le soir où ça va mal il ne cliquera pas sur mon lien, et une fois calmés on oublie.",
+  "objection": "C'est qui MyLoveLab ? Personne n'en parle, aucun avis, et tout repose sur le fait que mon partenaire joue le jeu alors que c'est justement lui qui ne veut jamais « parler du couple ».",
+  "would_change_my_mind": "Qu'une amie ou un média que je connais en parle, ou que mon copain fasse le test de lui-même et me dise que ses résultats l'ont touché.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 15,
+  "price_too_expensive": 25
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Je ferais le test gratuit avec plaisir, j'enverrais le lien à mon copain et je posterais sûrement notre « deux regards » en story, mais c'est là que ça s'arrête pour moi : je fais plein de tests, je ne m'abonne jamais derrière. Les 14 jours d'essai, on en ferait trois soirs puis on oublierait, et je ne vais pas payer 9,90 € par mois, le prix de Netflix, pour recevoir une question le soir alors qu'on a déjà notre jeu de cartes quand on a des invités.",
+  "objection": "Payer tous les mois pour un site qui m'envoie une question par soir, c'est un abonnement de plus qui finira oublié ; le plaisir du test, c'est le résultat et le partage, pas une routine quotidienne.",
+  "would_change_my_mind": "Un achat unique autour de 20 € pour une boîte de sessions ludiques à faire à deux (comme un jeu de cartes, mais sur le téléphone), sans abonnement ni notification quotidienne.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 6,
+  "price_too_expensive": 9
+}

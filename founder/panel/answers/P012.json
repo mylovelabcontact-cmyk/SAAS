@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "other",
+  "reason": "Le test gratuit, je le ferais sûrement un soir toute seule, c'est le genre de truc que j'aime bien. Mais le Duo ne démarre que si mon copain fait aussi le test, et je le connais : il va trouver ça gnangnan et le lien va rester dans la conversation sans réponse, comme le reel de psy que je lui ai envoyé.",
+  "objection": "Je ne veux pas être celle qui paie 9,90 € par mois pour un truc de couple que je fais toute seule le soir pendant qu'il scrolle à côté ; ça me ferait plus de mal que de bien. Et honnêtement on n'a pas de vrai problème, alors payer pour ça, pour moi comme pour lui, ça sonne comme si on en avait un.",
+  "would_change_my_mind": "Que ce soit lui qui propose, ou au moins qu'il fasse le test de son côté sans que j'aie à insister ; s'il le fait et qu'il accroche sur les deux semaines gratuites, 49 € pour l'année à deux ça passe.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 20
+}

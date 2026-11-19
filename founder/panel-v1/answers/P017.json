@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Le test gratuit, je le ferais un soir avec lui, c'est le genre de truc qu'on adore. Mais une session par jour sur un site web sans appli, honnêtement je n'y retournerai pas après trois jours, et 19,90 € tous les mois pour un rituel que j'oublie, c'est le prix de deux jeux de cartes qu'on garde pour toujours.",
+  "objection": "Pas d'appli, pas de notification : je vais oublier d'y aller. Nos rituels marchent parce qu'ils sont posés sur la table du salon, pas cachés dans un onglet du navigateur.",
+  "would_change_my_mind": "Un rappel quotidien (notification, SMS ou WhatsApp) qui nous envoie la session du soir directement, ou une formule duo à prix unique au lieu d'un abonnement mensuel.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 20
+}

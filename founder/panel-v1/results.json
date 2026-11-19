@@ -1,0 +1,492 @@
+{
+ "business": "MyLoveLab (mylovelab.fr), test de couple gratuit puis programme quotidien par abonnement, en France",
+ "seed": 7,
+ "dealt": 100,
+ "answered": 20,
+ "skipped": [
+  [
+   "P021",
+   "missing"
+  ],
+  [
+   "P022",
+   "missing"
+  ],
+  [
+   "P023",
+   "missing"
+  ],
+  [
+   "P024",
+   "missing"
+  ],
+  [
+   "P025",
+   "missing"
+  ],
+  [
+   "P026",
+   "missing"
+  ],
+  [
+   "P027",
+   "missing"
+  ],
+  [
+   "P028",
+   "missing"
+  ],
+  [
+   "P029",
+   "missing"
+  ],
+  [
+   "P030",
+   "missing"
+  ],
+  [
+   "P031",
+   "missing"
+  ],
+  [
+   "P032",
+   "missing"
+  ],
+  [
+   "P033",
+   "missing"
+  ],
+  [
+   "P034",
+   "missing"
+  ],
+  [
+   "P035",
+   "missing"
+  ],
+  [
+   "P036",
+   "missing"
+  ],
+  [
+   "P037",
+   "missing"
+  ],
+  [
+   "P038",
+   "missing"
+  ],
+  [
+   "P039",
+   "missing"
+  ],
+  [
+   "P040",
+   "missing"
+  ],
+  [
+   "P041",
+   "missing"
+  ],
+  [
+   "P042",
+   "missing"
+  ],
+  [
+   "P043",
+   "missing"
+  ],
+  [
+   "P044",
+   "missing"
+  ],
+  [
+   "P045",
+   "missing"
+  ],
+  [
+   "P046",
+   "missing"
+  ],
+  [
+   "P047",
+   "missing"
+  ],
+  [
+   "P048",
+   "missing"
+  ],
+  [
+   "P049",
+   "missing"
+  ],
+  [
+   "P050",
+   "missing"
+  ],
+  [
+   "P051",
+   "missing"
+  ],
+  [
+   "P052",
+   "missing"
+  ],
+  [
+   "P053",
+   "missing"
+  ],
+  [
+   "P054",
+   "missing"
+  ],
+  [
+   "P055",
+   "missing"
+  ],
+  [
+   "P056",
+   "missing"
+  ],
+  [
+   "P057",
+   "missing"
+  ],
+  [
+   "P058",
+   "missing"
+  ],
+  [
+   "P059",
+   "missing"
+  ],
+  [
+   "P060",
+   "missing"
+  ],
+  [
+   "P061",
+   "missing"
+  ],
+  [
+   "P062",
+   "missing"
+  ],
+  [
+   "P063",
+   "missing"
+  ],
+  [
+   "P064",
+   "missing"
+  ],
+  [
+   "P065",
+   "missing"
+  ],
+  [
+   "P066",
+   "missing"
+  ],
+  [
+   "P067",
+   "missing"
+  ],
+  [
+   "P068",
+   "missing"
+  ],
+  [
+   "P069",
+   "missing"
+  ],
+  [
+   "P070",
+   "missing"
+  ],
+  [
+   "P071",
+   "missing"
+  ],
+  [
+   "P072",
+   "missing"
+  ],
+  [
+   "P073",
+   "missing"
+  ],
+  [
+   "P074",
+   "missing"
+  ],
+  [
+   "P075",
+   "missing"
+  ],
+  [
+   "P076",
+   "missing"
+  ],
+  [
+   "P077",
+   "missing"
+  ],
+  [
+   "P078",
+   "missing"
+  ],
+  [
+   "P079",
+   "missing"
+  ],
+  [
+   "P080",
+   "missing"
+  ],
+  [
+   "P081",
+   "missing"
+  ],
+  [
+   "P082",
+   "missing"
+  ],
+  [
+   "P083",
+   "missing"
+  ],
+  [
+   "P084",
+   "missing"
+  ],
+  [
+   "P085",
+   "missing"
+  ],
+  [
+   "P086",
+   "missing"
+  ],
+  [
+   "P087",
+   "missing"
+  ],
+  [
+   "P088",
+   "missing"
+  ],
+  [
+   "P089",
+   "missing"
+  ],
+  [
+   "P090",
+   "missing"
+  ],
+  [
+   "P091",
+   "missing"
+  ],
+  [
+   "P092",
+   "missing"
+  ],
+  [
+   "P093",
+   "missing"
+  ],
+  [
+   "P094",
+   "missing"
+  ],
+  [
+   "P095",
+   "missing"
+  ],
+  [
+   "P096",
+   "missing"
+  ],
+  [
+   "P097",
+   "missing"
+  ],
+  [
+   "P098",
+   "missing"
+  ],
+  [
+   "P099",
+   "missing"
+  ],
+  [
+   "P100",
+   "missing"
+  ]
+ ],
+ "buys": 0,
+ "passes": 20,
+ "buy_rate": 0.0,
+ "by_segment": [
+  [
+   "Jeune active en début de carrière (emploi salarié, loyer à deux, pas d'enfant)",
+   8,
+   0.0
+  ],
+  [
+   "Étudiante ou en reconversion (petit budget, beaucoup de temps en ligne)",
+   2,
+   0.0
+  ],
+  [
+   "Jeune maman ou enceinte (premier enfant, charge mentale, fatigue)",
+   7,
+   0.0
+  ],
+  [
+   "Active installée (CDI, projet d'achat ou de bébé, couple de 4 à 7 ans)",
+   3,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Lectrice psycho",
+   3,
+   0.0
+  ],
+  [
+   "Curieuse des tests",
+   6,
+   0.0
+  ],
+  [
+   "Moment de tension",
+   3,
+   0.0
+  ],
+  [
+   "Fan de rituels à deux",
+   3,
+   0.0
+  ],
+  [
+   "Chasseuse de bons plans",
+   2,
+   0.0
+  ],
+  [
+   "Partenaire réticent",
+   1,
+   0.0
+  ],
+  [
+   "Déjà abonnée ailleurs",
+   2,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$29,000 and up",
+   7,
+   0.0
+  ],
+  [
+   "under $21,000",
+   6,
+   0.0
+  ],
+  [
+   "$21,000 to $29,000",
+   7,
+   0.0
+  ]
+ ],
+ "why_not": [
+  [
+   "habit",
+   12,
+   [
+    "Je ferais le test gratuit un soir avec plaisir, je partagerais mon portrait relationnel à Théo et sur ma story, et je m'arrêterais là. Je ne m'abonne jamais derrière un test, et 9,90 € par mois pour un site c'est le prix de Netflix, que je regarde tous les soirs, lui.",
+    "Le test gratuit, je le ferais volontiers un soir, et 9,90 € c'est le prix d'un jeu de cartes, donc pas le problème. Mais une session de 8 minutes par jour sur un site où il faut penser à aller, avec le bébé et la fatigue, je sais déjà que je lâche au bout de trois jours, et payer un abonnement pour ça, non."
+   ],
+   [
+    "P002",
+    "P005"
+   ]
+  ],
+  [
+   "trust",
+   3,
+   [
+    "Je ferais le test gratuit un soir après une dispute, je lirais mon portrait et mon score, et je m'arrêterais là. Payer 9,90 € par mois pour des petites sessions de 8 minutes alors que lui ne regarde même pas les reels que je lui envoie, non.",
+    "Le test gratuit, je le ferais sûrement un soir à 23h après une dispute, toute seule, pour avoir une réponse tout de suite. Mais payer 9,90 € par mois pour raconter mon couple à un site, avec le bébé, la fatigue et un budget serré, non ; et le Duo à 19,90 € n'a aucun sens tant que mon mec n'ouvre même pas les reels que je lui envoie."
+   ],
+   [
+    "P003",
+    "P004"
+   ]
+  ],
+  [
+   "other",
+   2,
+   [
+    "Je ferais le test gratuit toute seule, ça c'est sûr, et je lirais mon portrait avec curiosité. Mais payer 9,90 € par mois pour des actions à tester à deux alors que mon copain lèvera les yeux au ciel dès que je lui en parle, non : je finirais par faire ça seule dans mon coin, comme avec mon livre sur l'attachement.",
+    "Je ferais le test gratuit un soir sur le canapé, sûrement, parce que Gottman et l'attachement ça me parle et j'ai envie de voir mon portrait. Mais payer 9,90 € par mois pour des sessions avec une « action à tester à deux » alors que mon copain ne lâchera pas sa manette pour ça, non : je finirais par le faire toute seule et je culpabiliserais de payer pour rien."
+   ],
+   [
+    "P001",
+    "P008"
+   ]
+  ],
+  [
+   "price",
+   2,
+   [
+    "Le test gratuit, je le fais un soir avec mon copain, ça c'est sûr, c'est exactement le genre de truc qu'on aime. Mais 19,90 € par mois pour la version à deux, avec le bébé et mon salaire, c'est le prix des couches du mois ; et la version à 9,90 € toute seule, ça n'a aucun sens pour un rituel de couple.",
+    "Le test gratuit de 15 minutes, je le ferais peut-être un soir où le bébé dort, par curiosité. Mais 9,90 € par mois pour un site, c'est le prix de Netflix, et avec 18 000 € par an, Netflix, Spotify et mon appli bien-être déjà prélevés, je n'empile pas un abonnement de plus pour une session de 8 minutes par jour que je n'aurai pas l'énergie de faire."
+   ],
+   [
+    "P006",
+    "P014"
+   ]
+  ],
+  [
+   "timing",
+   1,
+   [
+    "Je ferais le test gratuit, ça, oui, Gottman et l'attachement ça me parle et j'aimerais voir mon style. Mais avec le bébé, la fatigue et 25 000 par an, je ne vais pas ajouter un abonnement de 10 ou 20 euros pour une session de 8 minutes par jour que je ne tiendrai pas."
+   ],
+   [
+    "P019"
+   ]
+  ]
+ ],
+ "why_yes": [],
+ "flip": [
+  "Que mon copain fasse le test gratuit de son côté et me dise lui-même qu'il veut continuer à deux.",
+  "Si Théo faisait le test de son côté, qu'il voulait vraiment continuer, et qu'il proposait de partager le Duo, c'est-à-dire 10 € chacun. Seule, non.",
+  "Que mon partenaire fasse le test de lui-même et me dise qu'il veut continuer à deux, ou une offre Duo à moins de 10 € pour nous deux.",
+  "Si mon partenaire faisait le test gratuit de son côté sans que j'aie à insister et qu'on en parlait vraiment, là je pourrais mettre 9,90 € pendant un ou deux mois.",
+  "Un rappel quotidien par SMS ou WhatsApp avec la question du jour dedans, qu'on puisse faire le rituel à deux en deux minutes sans avoir à ouvrir le site, ou un vrai jeu de cartes physique livré avec l'abonnement.",
+  "Un vrai essai gratuit du Duo d'une quinzaine de jours après le test, ou un format à acheter une fois (genre un pack de niveaux à 15-20 €, comme un jeu de cartes) plutôt qu'un mensuel.",
+  "Un essai gratuit du programme de 2 ou 3 semaines avec des rappels par SMS ou WhatsApp, et un tarif annuel Duo clairement moins cher (genre 99 € l'année) pour que je puisse lui vendre le truc.",
+  "Que mon copain fasse le test gratuit de son côté sans que j'aie à le supplier, et qu'on se retrouve avec un résultat à comparer : là je prendrais peut-être le Duo un mois pour voir.",
+  "Que mon partenaire fasse le test de lui-même et me dise qu'il veut continuer, ou un paiement unique à la place de l'abonnement.",
+  "Un vrai essai gratuit de 2 ou 3 semaines du programme (pas juste le test) ou une formule annuelle Duo autour de 60 à 70 € avec un code de lancement, pour que je puisse juger si on tient le rythme à deux avant de sortir la carte.",
+  "Une vraie appli avec un rappel le soir, et un premier mois Duo offert pour voir si on tient la routine à deux.",
+  "Que mon partenaire fasse le test gratuit de son côté et me dise lui-même que ça lui a plu ; là on pourrait essayer le Duo un mois.",
+  "Un paiement unique autour de 15-20 € pour le programme complet, ou une version jeu de cartes à sortir en soirée, plutôt qu'un abonnement.",
+  "Un paiement unique autour de 20-30 € pour le programme complet, ou une formule Duo à 9,90 € au total, sans prélèvement mensuel qui s'ajoute aux autres.",
+  "Que mon copain fasse le test de lui-même et me propose lui le programme à deux, et qu'il y ait un rappel quotidien (notification ou SMS) pour que ça tienne plus d'une semaine.",
+  "Une vraie appli avec un rappel le soir, et un essai Duo gratuit de deux semaines pour voir si on tient le rythme à deux avant de payer.",
+  "Un rappel quotidien (notification, SMS ou WhatsApp) qui nous envoie la session du soir directement, ou une formule duo à prix unique au lieu d'un abonnement mensuel.",
+  "Que le test gratuit me dise quelque chose de précis et de juste sur nous deux que je n'aurais pas pu lire dans un magazine, et que mon copain soit d'accord pour faire le Duo avec moi.",
+  "Voir les sources et les noms des psys ou chercheurs derrière le programme, et une première semaine du programme gratuite pour vérifier que c'est sérieux avant de payer.",
+  "Que mon conjoint fasse le test de lui-même et me dise qu'il a envie de continuer à deux ; là je paierais le Duo un mois pour voir."
+ ],
+ "purchases_first_month_per_buyer": null,
+ "price_answers": 20
+}
