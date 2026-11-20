@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Le test gratuit, je le ferais un soir où ça va mal, franchement. Mais payer 9,90 € tous les mois pour des petites sessions de 8 minutes, ça ressemble aux tests des magazines en plus cher, et je ne vois pas pourquoi ça marcherait mieux qu'un jeu de cartes à la maison.",
+  "objection": "Un score sur 100 et un « portrait parmi 24 », ça fait horoscope. Et le Duo à 19,90 € suppose que mon copain accepte de faire ça chaque jour, alors qu'après une dispute il ne veut même pas en parler.",
+  "would_change_my_mind": "Que le test gratuit me dise quelque chose de précis et de juste sur nous deux que je n'aurais pas pu lire dans un magazine, et que mon copain soit d'accord pour faire le Duo avec moi.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 20
+}

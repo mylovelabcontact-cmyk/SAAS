@@ -1,0 +1,13 @@
+{
+  "id": "P028",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Le test gratuit de 15 minutes, je le fais ce soir sur le canapé et je balance le lien à mon copain pour voir nos deux portraits, ça c'est sûr. Mais une question chaque soir pendant des mois, je sais déjà comment ça finit : j'ai abandonné Duolingo au bout de trois semaines, et là il faut qu'on s'y tienne à deux.",
+  "objection": "Payer un abonnement pour un truc que je vais laisser tomber après l'essai gratuit, surtout que mon copain ne va pas faire son test tout de suite et que les 14 jours ne démarrent même pas tant qu'il ne l'a pas fait.",
+  "would_change_my_mind": "Que mon copain accroche vraiment aux questions du soir pendant les 14 jours et me demande lui-même de continuer ; là, 49 € pour l'année ça passe.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 9.90,
+  "price_too_expensive": 15
+}

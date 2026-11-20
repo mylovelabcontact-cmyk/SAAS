@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Je ferais le test gratuit un soir pendant que le petit dort, je partagerais mon portrait relationnel à ma copine, et je m'arrêterais là, comme avec tous les tests que je croise sur Insta. Huit minutes par jour à deux, avec un bébé et un mec qui a déjà dit que la thérapie c'était trop tôt, ça n'arrivera pas.",
+  "objection": "C'est un test comme dans les magazines, avec des noms de chercheurs collés dessus pour faire sérieux ; et le Duo à 19,90 € ne sert à rien si lui ne joue pas le jeu, et il ne le jouera pas.",
+  "would_change_my_mind": "Que mon conjoint fasse le test de lui-même et me dise qu'il a envie de continuer à deux ; là je paierais le Duo un mois pour voir.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 20
+}

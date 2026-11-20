@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "habit",
+  "reason": "C'est exactement le genre de petit rituel du soir que j'adore, ça ressemble à un jeu de cartes couple et pas à une thérapie, et 9,90 € pour deux c'est le prix d'un paquet de couches. Je fais le test gratuit, je lui envoie le lien, et si on tient les 14 jours je prends le mois, pas l'année.",
+  "objection": "Ce n'est pas moi le problème, c'est lui : il a dit non à la thérapie, il va voir 'Gottman', 'style d'attachement', un test de 15 minutes, et me dire que c'est encore un truc pour le psychanalyser. Et le soir avec le bébé, à 21h je dors sur le canapé, même avec la notification.",
+  "would_change_my_mind": "S'il peut faire sa partie en 5 minutes depuis mon lien sans rien installer et que les premières questions sont vraiment drôles et légères, pas des questions de thérapeute, il jouera le jeu.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 13,
+  "price_too_expensive": 20
+}

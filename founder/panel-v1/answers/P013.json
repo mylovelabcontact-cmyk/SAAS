@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Le test gratuit, je le fais direct, à deux, et je partage le portrait sur mon story. Mais 9,90 € par mois pour un site, c'est le prix de Netflix, et je ne m'abonne jamais derrière un test, je passe au suivant.",
+  "objection": "Huit minutes par jour, tous les jours, à deux : on ne le fera pas plus d'une semaine, on fait déjà nos cartes-questions quand on a des invités et ça nous suffit. Je paierais pour une soirée, pas pour une routine.",
+  "would_change_my_mind": "Un paiement unique autour de 15-20 € pour le programme complet, ou une version jeu de cartes à sortir en soirée, plutôt qu'un abonnement.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 8,
+  "price_too_expensive": 12
+}

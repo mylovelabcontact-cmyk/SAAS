@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Je ferais sûrement le test gratuit un soir en scrollant, mais je ne vais pas sortir 19,90 € par mois pour un truc que mon copain va trouver « gnangnan » et ne jamais ouvrir. Et toute seule à 9,90 €, ça n'a pas de sens, le but c'est de le faire à deux.",
+  "objection": "On n'a pas de problème, on paie déjà un loyer à deux et on ne va pas ajouter un abonnement pour « travailler notre couple » ; si je lui propose, il va lever les yeux au ciel comme avec le reel de psy que je lui ai envoyé.",
+  "would_change_my_mind": "Que mon partenaire fasse le test gratuit de son côté et me dise lui-même que ça lui a plu ; là on pourrait essayer le Duo un mois.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 20
+}

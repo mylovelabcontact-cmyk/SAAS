@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Le test gratuit, je le fais, je partage mon résultat en story et voilà, comme tous les tests que je croise. Payer 9,90 € par mois derrière, non : je ne m'abonne jamais à ce genre de truc, et là avec le bébé je n'ai ni l'énergie ni l'argent pour une question de plus le soir.",
+  "objection": "Il faut que lui fasse le test de son côté et qu'il joue le jeu chaque soir. Il a déjà dit non à une thérapie parce que c'était trop cher et trop tôt, alors un quiz avec des sources Gottman, pour lui ça restera un test de magazine.",
+  "would_change_my_mind": "Qu'il fasse le test de lui-même avec le lien, qu'on regarde « Vos deux regards » ensemble et que ce soit lui qui propose de continuer.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 20
+}

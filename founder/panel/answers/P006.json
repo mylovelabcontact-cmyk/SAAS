@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "habit",
+  "reason": "C'est exactement le genre de petit rituel du soir qu'on aime, et 9,90 € pour nous deux c'est moins qu'un jeu de cartes. Je fais le test gratuit, on essaie les 14 jours, et si ça nous fait rire deux minutes avant de dormir avec le bébé, je prends le mois.",
+  "objection": "Encore un abonnement que je vais oublier de résilier, et avec le petit je suis tellement crevée le soir que je ne suis pas sûre qu'on tienne plus de dix jours.",
+  "would_change_my_mind": "Si l'essai gratuit demande ma carte dès le début et bascule tout seul en payant sans me prévenir, je ne le fais même pas.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 20
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "other",
+  "reason": "Le test gratuit, je le fais ce soir sur le canapé, et les sources (Gottman, ECR-R) me rassurent vraiment. Mais le Duo ne démarre que si mon copain fait le test de son côté, et lui, il est sur sa manette : le lien va rester dans WhatsApp sans réponse, donc je n'arrive jamais à l'étape où on paie.",
+  "objection": "Mon copain ne fera jamais ça avec moi. Une question chaque soir à deux, même de deux minutes, c'est moi qui vais devoir le relancer tous les jours, et au bout d'une semaine ça devient un sujet de dispute plutôt qu'un truc pour le couple.",
+  "would_change_my_mind": "Que mon copain fasse le test de lui-même après avoir vu mes résultats, ou que je puisse continuer seule avec mon portrait d'attachement et des sessions solo pendant qu'il se décide.",
+  "price_too_cheap": 1,
+  "price_cheap": 4,
+  "price_expensive": 10,
+  "price_too_expensive": 15
+}

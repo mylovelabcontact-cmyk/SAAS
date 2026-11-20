@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Je ferais le test gratuit par curiosité et j'enverrais le lien à mon copain, mais le Duo c'est une question chaque soir et je sais déjà que je lâche au bout de dix jours, comme Duolingo. Je profiterais des 14 jours et je résilierais avant le prélèvement.",
+  "objection": "Nos disputes c'est le ménage et la charge mentale, pas le manque de questions romantiques : je ne vois pas comment une notif à 21h va faire que la vaisselle soit faite, et 49 € c'est quand même un budget pour un truc que je risque d'abandonner.",
+  "would_change_my_mind": "Si pendant l'essai on faisait vraiment les sessions à deux sans que je doive le relancer, et qu'il y avait un code promo ou le tarif fondateurs encore valable au moment où je me décide.",
+  "price_too_cheap": 2,
+  "price_cheap": 4,
+  "price_expensive": 8,
+  "price_too_expensive": 12
+}

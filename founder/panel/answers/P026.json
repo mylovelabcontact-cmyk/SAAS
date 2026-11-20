@@ -1,0 +1,13 @@
+{
+  "id": "P026",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Je ferais le test gratuit, j'enverrais le lien à mon copain, et je prendrais les 14 jours d'essai si jamais il le fait. Mais je connais mon schéma : je résilie avant la fin de l'essai, et je n'imagine pas qu'on tienne les questions du soir à deux assez longtemps pour que je sorte 49 € ou 9,90 € par mois.",
+  "objection": "C'est moi qui envoie les reels de psy, pas lui. Le Duo ne démarre que s'il fait le test de son côté, et une question chaque soir sur le téléphone, ça devient encore un truc que je lui rappelle. Et au fond, une appli ne remplace pas un vrai psy : si ça va vraiment mal, c'est un praticien qu'il nous faut, pas des scores.",
+  "would_change_my_mind": "Que mon copain fasse le test de lui-même et me dise qu'il a envie de continuer : si c'est lui qui est demandeur, les 49 € de l'offre fondateurs passent sans discuter.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 20
+}

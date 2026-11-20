@@ -1,0 +1,91 @@
+{
+  "business": "MyLoveLab (abonnement couples, France) — base : micro-entreprise en franchise de TVA, prix TTC = HT",
+  "unit": "couple-mois (un mois de Duo payé par un couple, mix mensuel 9,90 € / annuel 59 €)",
+  "price": 7.9,
+  "variable": [
+    {
+      "label": "Frais Stripe (1,5 % + 0,25 € par paiement carte UE, sur 7,90 €)",
+      "cost": 0.37
+    },
+    {
+      "label": "Commission d'affiliation (30 % sur 12 mois, estimée sur 50 % des clients = 15 % en moyenne)",
+      "cost": 1.19
+    },
+    {
+      "label": "Cotisations sociales micro-entreprise BNC 2026 (25,6 % du CA encaissé, à vérifier ; 21,2 % si BIC)",
+      "cost": 2.02
+    },
+    {
+      "label": "E-mails de rappel et transactionnels (≈ 70/mois pour deux comptes)",
+      "cost": 0.1
+    }
+  ],
+  "fixed_monthly": [
+    {
+      "label": "Vercel Pro (hébergement, usage commercial)",
+      "cost": 18.5
+    },
+    {
+      "label": "Supabase Pro (base, auth, sauvegardes)",
+      "cost": 23.0
+    },
+    {
+      "label": "Outil d'e-mailing (Brevo, gratuit sous 300 e-mails/jour puis Starter ≈ 7 € HT)",
+      "cost": 7.0
+    },
+    {
+      "label": "Noms de domaine mylovelab.fr + myrelation.fr (≈ 19 €/an)",
+      "cost": 1.6
+    },
+    {
+      "label": "Abonnement IA pour le développement et le contenu (Claude, estimation)",
+      "cost": 90.0
+    },
+    {
+      "label": "Banque pro en ligne pour micro-entreprise (estimation)",
+      "cost": 9.0
+    },
+    {
+      "label": "Salaires fondateurs",
+      "cost": 0
+    }
+  ],
+  "startup": [
+    {
+      "label": "Pub vague Noël (budget fondateurs)",
+      "cost": 150
+    },
+    {
+      "label": "Pub vague Nouvelle année (budget fondateurs)",
+      "cost": 600
+    },
+    {
+      "label": "Pub Saint-Valentin (budget fondateurs)",
+      "cost": 1000
+    },
+    {
+      "label": "Dépôt de marque INPI, 2 classes (41 + 44) (prix public)",
+      "cost": 230
+    },
+    {
+      "label": "Création micro-entreprise (gratuit) + mentions légales/CGV relues (estimation)",
+      "cost": 60
+    }
+  ],
+  "days_per_month": 30,
+  "plan_per_day": 10,
+  "ramp_per_day": [
+    0.33,
+    0.83,
+    2.0,
+    2.67,
+    3.17,
+    3.67,
+    4.17,
+    4.67,
+    5.33,
+    6.0,
+    6.67,
+    7.33
+  ]
+}

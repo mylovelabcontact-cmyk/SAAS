@@ -1,0 +1,13 @@
+{
+  "id": "P022",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Le test gratuit avec Gottman, Sue Johnson et l'ECR-R, je le fais tout de suite, c'est exactement ce que je lis. Mais je connais la suite : l'essai Duo, dix jours de questions le soir, puis mon copain qui répond « on fait ça demain », et moi qui paie 9,90 € pour une notification que je swipe.",
+  "objection": "Ce n'est pas un produit pour moi, c'est un produit pour nous deux, et c'est moi qui lis des psys sur Instagram, pas lui. Si c'est moi qui relance chaque soir, ça devient une corvée de plus, et encore un abonnement que je vais oublier de résilier.",
+  "would_change_my_mind": "Si pendant les 14 jours d'essai c'est lui qui ouvre la question du soir en premier, sans que je lui rappelle, je prends les 49 € à l'année sans hésiter.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 12,
+  "price_too_expensive": 15
+}

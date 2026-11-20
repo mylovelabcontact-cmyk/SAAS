@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Je ferais sûrement le test gratuit un soir, c'est le genre de truc qu'on aime bien avec mon copain, mais 9,90 € par mois pour un site c'est le prix de Netflix et je paie déjà Netflix, Spotify et mon appli bien-être. Avec le bébé et 18 000 € par an, je n'empile pas un abonnement de plus pour des questions qu'on se pose déjà avec notre jeu de cartes.",
+  "objection": "Le soir, entre la fatigue et le petit, je n'ai pas l'énergie pour une notification de plus qui me dit quoi faire ; je sais déjà que l'essai de 14 jours finirait par un prélèvement que j'aurais oublié.",
+  "would_change_my_mind": "Un achat unique, genre 15 à 20 € une fois pour tout débloquer, comme un jeu de cartes qu'on garde, plutôt qu'un abonnement.",
+  "price_too_cheap": 1,
+  "price_cheap": 3,
+  "price_expensive": 6,
+  "price_too_expensive": 10
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P023",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "habit",
+  "reason": "C'est exactement le genre de rituel du soir que j'achète déjà en jeu de cartes, et à 9,90 € pour nous deux avec les 14 jours gratuits et le remboursement, je ne risque pas grand-chose ; si mon copain fait le test, je prends le mois, et le 49 € fondateurs si on tient les deux semaines.",
+  "objection": "Tout repose sur le fait que mon copain clique sur le lien et fasse ses 15 minutes de test ; je lui envoie déjà des reels qu'il ne regarde pas, et moi j'ai lâché Duolingo au bout de trois semaines malgré les notifs.",
+  "would_change_my_mind": "S'il ne fait pas le test dans la semaine, je n'achète rien, et je ne le relancerai pas deux fois.",
+  "price_too_cheap": 2,
+  "price_cheap": 5,
+  "price_expensive": 15,
+  "price_too_expensive": 25
+}
